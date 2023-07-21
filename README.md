@@ -10,9 +10,9 @@
  
  6. Ссылка на коммит: https://github.com/mmau5/firstgit1/commit/9ee57cfcc34e8c0ad1e350134631bd835e3320b6
  
-![Скриншот 1](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-20 13-51-04.png)
-![Скрин 2](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-20 13-56-08.png)
-![Скрин 3](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-20 14-29-02.png)
+![Скриншот 1](https://github.com/mmau5/firstgit1/blob/master/Screenshot%20from%202023-07-20%2013-51-04.png)
+![Скрин 2](https://github.com/mmau5/firstgit1/blob/master/Screenshot%20from%202023-07-20%2013-56-08.png)
+![Скрин 3](https://github.com/mmau5/firstgit1/blob/master/Screenshot%20from%202023-07-20%2014-29-02.png)
 ---
 
 ### Задание 2
@@ -23,9 +23,9 @@
 
 5. Ссылка на коммит: https://github.com/mmau5/firstgit1/commit/e6472f0d825fc4f22872c601c150b945e4f277cf
 
-![Screen 1](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-20 15-15-45.png)
-![Screen 2](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-20 15-13-52.png)
-![Screen 3](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-20 15-51-43.png)
+![Screen 1](https://github.com/mmau5/firstgit1/blob/master/Screenshot%20from%202023-07-20%2015-13-52.png)
+![Screen 2](https://github.com/mmau5/firstgit1/blob/master/Screenshot%20from%202023-07-20%2015-15-45.png)
+![Screen 3](https://github.com/mmau5/firstgit1/blob/master/Screenshot%20from%202023-07-20%2015-51-43.png)
 
 
 ---
@@ -53,6 +53,6 @@
 5. сделала мердж дев ветки
 6. пуш не получается с делать, читала вроде пишут это частая проблема, нужно сделать пулл, а потом пуш. Не получается все равно.
 
-![Screen 1](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-21 13-55-23.png)
-![Screen 2](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-21 14-01-45.png)
-![Screen 3](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-21 14-05-27.png)
+![Screen 1](https://github.com/mmau5/firstgit1/blob/master/Screenshot%20from%202023-07-21%2013-55-23.png)
+![Screen 2](https://github.com/mmau5/firstgit1/blob/master/Screenshot%20from%202023-07-21%2014-01-45.png)
+![Screen 3](https://github.com/mmau5/firstgit1/blob/master/Screenshot%20from%202023-07-21%2014-05-27.png)
