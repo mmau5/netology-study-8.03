@@ -44,3 +44,15 @@
 ![Screen 2](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-20 16-00-39.png)
 ![Screen 3](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-20 15-58-42.png)
 
+
+
+1. Ветка dev уже была создана
+2. добавила файл в дев 
+3. сделала коммит, пуш
+4. переключилась на ветку мастер
+5. сделала мердж дев ветки
+6. пуш не получается с делать, читала вроде пишут это частая проблема, нужно сделать пулл, а потом пуш. Не получается все равно.
+
+![Screen 1](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-21 13-55-23.png)
+![Screen 2](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-21 14-01-45.png)
+![Screen 3](https://github.com/mmau5/firstgit1/blob/master/Screenshot from 2023-07-21 14-05-27.png)
